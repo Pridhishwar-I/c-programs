@@ -12,6 +12,6 @@ My personal code lab: 100+ independent C programs exploring programming fundamen
 7.   [7thprog.c](./7thprog.c)   — Simple Calculator (add, subtract, multiply, divide).
 8.   [8thprog.c](./8thprog.c)   — ASCII Value of a Character.
 9.   [9thprog.c](./9thprog.c)   — size of a num using sizeof.
-10.  [10thprog.c](./10thprog.c) — Simple/Compound Interest Comparison/difference
-11.  [11thprog.c](./11thprog.c) —  Even or Odd Check
-
+10.  [10thprog.c](./10thprog.c) — Simple/Compound Interest Comparison/difference.
+11.  [11thprog.c](./11thprog.c) — Even or Odd Check.
+12.  [12thprog.c](./12thprog.c) — Largest of Three Numbers.
