@@ -25,4 +25,4 @@ My personal code lab: 100+ independent C programs exploring programming fundamen
 20.  [20thprog.c](./20thprog.c) — Finding prime num below 11.
 21.  [21stprog.c](./21stprog.c) — Fibonacci series.
 22.  [22ndprog.c](./22ndprog.c) — 
-23.  [23thprog.c](./23rdprog.c) — Square Star Pattern.
+23.  [23rdprog.c](./23rdprog.c) — Square Star Pattern.
