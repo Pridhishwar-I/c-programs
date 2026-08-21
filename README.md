@@ -15,3 +15,12 @@ My personal code lab: 100+ independent C programs exploring programming fundamen
 10.  [10thprog.c](./10thprog.c) — Simple/Compound Interest Comparison/difference.
 11.  [11thprog.c](./11thprog.c) — Even or Odd Check.
 12.  [12thprog.c](./12thprog.c) — Largest of Three Numbers.
+13.  [13thprog.c](./13thprog.c) — Sum of N numbers.
+14.  [14thprog.c](./14thprog.c) — Factorial usnig loop.
+15.  [15thprog.c](./15thprog.c) — Multiplication Table.
+16.  [16thprog.c](./16thprog.c) — Sum of digits.
+17.  [17thprog.c](./17thprog.c) — Reverse of a num.
+18.  [18thprog.c](./18thprog.c) — Palindrome number check.
+19.  [19thprog.c](./19thprog.c) — Amstrong number check.
+20.  [20thprog.c](./20thprog.c) —
+21.  [21stprog.c](./21stprog.c) — Fibonacci series.
