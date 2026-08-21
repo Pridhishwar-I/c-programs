@@ -22,5 +22,5 @@ My personal code lab: 100+ independent C programs exploring programming fundamen
 17.  [17thprog.c](./17thprog.c) — Reverse of a num.
 18.  [18thprog.c](./18thprog.c) — Palindrome number check.
 19.  [19thprog.c](./19thprog.c) — Amstrong number check.
-20.  [20thprog.c](./20thprog.c) —
+20.  [20thprog.c](./20thprog.c) — Finding prime num below 11.
 21.  [21stprog.c](./21stprog.c) — Fibonacci series.
