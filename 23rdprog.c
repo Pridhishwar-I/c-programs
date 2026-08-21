@@ -1,21 +1,18 @@
 #include<stdio.h>
 int main()
 {
-    int n;
-    printf("entre the no of starts you want : ");
-    scanf("%d",&n);
-    for(int i=0;i<n;++i)
+    for(int i=0;i<4;++i)
     {
         printf("*\t");
     }
     printf("\n\n");
-    for(int i=0;i<n-2;++i)
+    for(int i=0;i<4-2;++i)
     {
         printf("*");
         printf("\t\t\t*");
         printf("\n\n");
     }
-    for(int i=0;i<n;++i)
+    for(int i=0;i<4;++i)
     {
         printf("*\t");
     }
