@@ -26,4 +26,10 @@ My personal code lab: 100+ independent C programs exploring programming fundamen
 21.  [21stprog.c](./21stprog.c) — Fibonacci series.
 22.  [22ndprog.c](./22ndprog.c) — 
 23.  [23rdprog.c](./23rdprog.c) — Square Star Pattern.
-24.  [24thprog.c](./24thprog.c) — Triangle Pattern 
+24.  [24thprog.c](./24thprog.c) — Triangle Pattern.
+25.  [25thprog.c](./24thprog.c) — Pyramid pattern.
+26.  [26thprog.c](./26thprog.c) — 
+27.  
+28.  [28thprog.c](./28thprog.c) — Largest and Smallest Element in Array.
+29.  [29thprog.c](./29thprog.c) — Sum and Average of Array.
+30.  [30thprog.c](./30thprog.c) — Reverse an Array.
