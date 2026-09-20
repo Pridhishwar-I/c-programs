@@ -4,6 +4,7 @@
     int ar[10];
     int sum=0;
     int total=0;
+    printf("enter 10 elements for the array  \n\n");
     for(int i=0;i<10;i++)
     {
         printf("enter a number : ");
