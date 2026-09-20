@@ -3,6 +3,7 @@ int main()
 {
     int ar[10];
     int lar,sma;
+    printf("enter 10 numbers for the array \n\n ");
     for(int i=0;i<10;++i)
     {
         printf("enter the number : ");
