@@ -1,37 +1,35 @@
-#include<Stdio.h>
+#include<stdio.h>
 int main()
 {
-    int arr[5]={29,10,14,37,13};
-        for(int i=1;i<5;++i)
+    int n;
+    printf("enter the size of array : ");
+    scanf("%d",&n);
+    int arr[n];
+    for(int i=0;i<n;++i)
+    {
+        printf("enter the element %d :  ",i);
+        scanf("%d",&arr[i]);
+    }  
+        for(int i=1;i<n;++i)
         {
-            for(int j=i;j>=0;--j)
+            int a=arr[i];
+            int b=i-1;
+            while(b>=0 && arr[b]>a)
             {
-                int a=i;
-                int b=j-1;
-                if(arr[i]<arr[b])
+                if(a<arr[b])
                 {
-                    if(j==1)
-                    {
-                        int y=arr[a];
-                        int z=arr[b];
-                        arr[a]=z;
-                        arr[b]=y;
-                        break;
-                    }
-                }
-                else
-                {
-                    int k=arr[a];
-                    int l=arr[b];
-                    arr[a]=l;
-                    arr[b]=k;
+                    arr[b+1]=arr[b];
+                    --b;
                 }
             }
+            arr[b+1]=a;
         }
-    for(int i=0;i<5;++i)
+         printf("\n\n\nthe sorted list is \n\n\n");
+    for(int i=0;i<n;++i)
     {
         printf("%d\n",arr[i]);
     }
+    printf("\n");
 }
 
 
